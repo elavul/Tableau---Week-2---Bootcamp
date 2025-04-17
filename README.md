@@ -2,50 +2,13 @@
 As part of an intense Data Analyst bootcamp we learnt how to use Tableau and create compelling and easy to understand visualisations.
 
 ## Final visualisation:
-<div class='tableauPlaceholder' id='viz1744915899379' style='position: relative'>
-  <noscript>
-    <a href='#'>
-      <img alt='Dashboard 2' src='https://public.tableau.com/static/images/Gl/Globaldatasetfinal/Dashboard2/1_rss.png' style='border: none' />
-    </a>
-  </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-    <param name='embed_code_version' value='3' />
-    <param name='site_root' value='' />
-    <param name='name' value='Globaldatasetfinal/Dashboard2' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/Gl/Globaldatasetfinal/Dashboard2/1.png' />
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='en-GB' />
-  </object>
-</div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1744915899379');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  if ( divElement.offsetWidth > 800 ) {
-    vizElement.style.width='100%';
-    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  } else if ( divElement.offsetWidth > 500 ) {
-    vizElement.style.width='100%';
-    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  } else {
-    vizElement.style.width='100%';
-    vizElement.style.height='2027px';
-  }
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+![Screenshot 2025-04-17 195630](https://github.com/user-attachments/assets/e19913d0-8f79-45f6-a60d-0800df1aee8c)
 
-## Tableau link to this viz: 
+
+## Tableau link to this interactive dashboard where you can filter and explore the data:
 https://public.tableau.com/app/profile/ela.maria.vultur/viz/Globaldatasetfinal/Dashboard2
 
-# Dataset used:
+## Dataset used:
 Global Superstore Dashboard (Tableau Classwork) <br>
 [global_superstore_2016 (1).xlsx](https://github.com/user-attachments/files/19799244/global_superstore_2016.1.xlsx)
 
